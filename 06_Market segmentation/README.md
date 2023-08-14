@@ -19,7 +19,7 @@ Segment 4 - GenZ
 This segment contains mainly of college students and online gamers. Once again they account for a small amount of people, but have the potential to help a lot in mass engagement among the users. These account for 5.6% (445) of the followers.
 
 
-![Alt text](pca_estimate.jpeg)     ![Alt text](correlation.jpeg)     
+![Alt text](pca_estimate.jpeg)           ![Alt text](correlation.jpeg)     
 
 
 ![Alt text](kmeansesetimate.jpeg)        ![Alt text](component1vscomponent2.jpeg)     
