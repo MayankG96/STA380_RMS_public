@@ -19,9 +19,10 @@ Segment 4 - GenZ
 This segment contains mainly of college students and online gamers. Once again they account for a small amount of people, but have the potential to help a lot in mass engagement among the users. These account for 5.6% (445) of the followers.
 
 
+![Alt text](pca_estimate.jpeg)     ![Alt text](coorelation.jpeg)     
 
 
-![Alt text](component1vscomponent2.jpeg)     
+![Alt text](kmeansesetimate.jpeg)        ![Alt text](component1vscomponent2.jpeg)     
 
 The data is collected in the course of a market-research study using followers of the Twitter account of a large consumer brand "NutrientH20". The goal here is for NutrientH20 to understand its social-media audience a little bit better, so that it can hone its messaging a little more sharply.
 The data contains 36 odd rows related to the interests of a user via a set of tweets that they made over a period of 7 days.
