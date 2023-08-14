@@ -2,6 +2,9 @@ We have assumed that the client is a nutrition company, trying to market a healt
 From our data. We have dropped all users who have posted more than 10 adult tweets. 
 We have segmented the rest of the users in 3 parts.
 
+![Alt text](component1vscomponent2.jpeg)
+
+
 Segment 1- No Data
 This segment did not provide with any substantial amount of data. These account for 72%(5693) of the followers
 
