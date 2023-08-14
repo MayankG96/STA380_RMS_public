@@ -9,7 +9,7 @@ Total No =0.35x
 Remaining No =0.2x
 Total truthful = 0.7x
 Fraction = 0.5*100/0.7
-
+Ans: 71.43%
 
 Answer 2
 A: Someone Tests Positive
