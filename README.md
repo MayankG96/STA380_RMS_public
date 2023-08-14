@@ -1,4 +1,4 @@
-**GROUP MEMBERS**
+**Group Members**
 - Mayank Gupta (Email: saiyam.shah@utexas.edu, eid- sns3654)
 - Rachana Aithal (Email: saiyam.shah@utexas.edu, eid- sns3654)
 - Saiyam Shah (Email: saiyam.shah@utexas.edu, eid- sns3654)
