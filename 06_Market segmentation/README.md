@@ -32,7 +32,7 @@ We used a combination of PCA and K-means Clustering to segment the data in vario
 K-means was not able to perform well as a standalone model, mainly due to the high dimensionality of the data, hence we used PCA for dimensionality reduction.
 
 
-![Alt text](breakup.jpeg.jpeg)
+![Alt text](breakup.jpeg)
 
 Insights and Recommendations: 
 # Nutrionists 
