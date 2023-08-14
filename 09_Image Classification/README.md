@@ -47,5 +47,6 @@ We plotted a confusion matrix to see how the images are classified:
 ![Alt text](image.png)
 
 Here's a small snippet of 8 test images and their classifications:
+
 ![Alt text](image-1.png)
 6 4 2 9 4 9 4 3
