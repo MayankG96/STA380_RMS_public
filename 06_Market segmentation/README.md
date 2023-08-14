@@ -26,8 +26,13 @@ This segment contains mainly of college students and online gamers. Once again t
 The data is collected in the course of a market-research study using followers of the Twitter account of a large consumer brand "NutrientH20". The goal here is for NutrientH20 to understand its social-media audience a little bit better, so that it can hone its messaging a little more sharply.
 The data contains 36 odd rows related to the interests of a user via a set of tweets that they made over a period of 7 days.
 
+
+
 We used a combination of PCA and K-means Clustering to segment the data in various groups to understand the typical patterns of the followers of NutrientH20. We were able to segment the followers in 4 groups and named those groups as 'Randon Profiles','Nutrionists','Influencers' and 'GenZ'. We tried correlation analysis, but it didn't give us expected results because of low correlation between most of the columns. 
 K-means was not able to perform well as a standalone model, mainly due to the high dimensionality of the data, hence we used PCA for dimensionality reduction.
+
+
+![Alt text](breakup.jpeg.jpeg)
 
 Insights and Recommendations: 
 # Nutrionists 
