@@ -43,6 +43,7 @@ The overall architecture of this CNN involves alternating convolutional and max-
 
 After running the training the model and applying it on the test set we got an accuracy of 85%
 We plotted a confusion matrix to see how the images are classified:
+
 ![Alt text](image.png)
 
 Here's a small snippet of 8 test images and their classifications:
