@@ -11,14 +11,6 @@ From around 2005-2008, we can see a steep rise and fall in songs. We can say tha
 
 **Answer 3:** 
 
-![Alt text](imageq3)
+![Alt text](image.png)
 
-
-As mentioned in the question, there are 19 singers who had 30 songs on on billboard for 10 weeks. Very similar on the trend discussed above, most of the singers are from the era of 1970s to 2000s, the time where people didnt like to experiment much with the songs. There are obviously outliers like Taylor Swift and Drake. But lets be honest, everybody loves Taylor Swift. No data analysis will help us to fit her in any trends, she has her own trends. Apart from that, we can see that male singers have been able to acheive more hit songs than female singers. Madonna and Taylor Swift(obviously) were the only female songers with 30+ songs. 
-
-
-
-
-
-
-
+As mentioned in the question, there are 19 singers who had 30 songs on on billboard for 10 weeks. Very similar on the trend discussed above, most of the singers are from the era of 1970s to 2000s, the time where people didnt like to experiment much with the songs. There are obviously outliers like Taylor Swift and Drake. But lets be honest, everybody loves Taylor Swift. No data analysis will help us to fit her in any trends, she has her own trends. Apart from that, we can see that male singers have been able to acheive more hit songs than female singers. Madonna and Taylor Swift(obviously) were the only female songers with 30+ songs.
