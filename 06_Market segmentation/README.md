@@ -2,7 +2,7 @@ We have assumed that the client is a nutrition company, trying to market a healt
 From our data. We have dropped all users who have posted more than 10 adult tweets. 
 We have segmented the rest of the users in 3 parts.
 
-![Alt text](component1vscomponent2.jpeg)
+
 
 
 Segment 1- No Data
@@ -21,7 +21,7 @@ This segment contains mainly of college students and online gamers. Once again t
 
 
 
-
+![Alt text](component1vscomponent2.jpeg)     
 
 The data is collected in the course of a market-research study using followers of the Twitter account of a large consumer brand "NutrientH20". The goal here is for NutrientH20 to understand its social-media audience a little bit better, so that it can hone its messaging a little more sharply.
 The data contains 36 odd rows related to the interests of a user via a set of tweets that they made over a period of 7 days.
