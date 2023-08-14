@@ -11,7 +11,6 @@ However, age analysis reveals that older green buildings (60-120 years) tend to 
 ![Alt text](image-1.png)
 
 Considering building size, green-rated properties tend to have slightly larger areas, often being preferred by larger corporations.
-![Alt text](image-2.png)
 
 Furthermore, a calculated metric combining size and rent confirms that green-rated buildings generate higher total rental earnings.
 ![Alt text](image-3.png)
