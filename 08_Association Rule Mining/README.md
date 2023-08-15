@@ -7,7 +7,7 @@
 
 ## Frequent Items
 
-<img width="371" alt="image" src="https://github.com/saiyam-shah/STA380_RMS/assets/38381467/c051f3e0-0785-4993-9164-2cbe625bf2f1">
+![Alt text](ar_output1.png)
 
 Whole milk, vegetables, rolls/buns, soda and yogurt are the most sold items
 
@@ -16,7 +16,7 @@ Whole milk, vegetables, rolls/buns, soda and yogurt are the most sold items
 ### 1. Top 15 association rules based on support withmin threshold of 2%
 Support measures the frequency of occurrence of a specific itemset (combination of items) in the dataset. It tells you how popular or prevalent the itemset is in the data.
 
-<img width="296" alt="image" src="https://github.com/saiyam-shah/STA380_RMS/assets/38381467/a3278d53-fc03-4920-8dbe-34b10db5079e">
+![Alt text](ar_output2.png)
 
 Rules based on support:
 
@@ -27,7 +27,7 @@ Rules based on support:
 ### 2.Top 15 association rules based on 50% confidence
 Confidence measures the reliability or strength of a rule. It indicates the likelihood that an item in the consequent (output) of the rule appears in the transaction given that the items in the antecedent (input) of the rule are already present.
 
-<img width="380" alt="image" src="https://github.com/saiyam-shah/STA380_RMS/assets/38381467/aa02dc05-612a-4fe6-a049-f57f292cce55">
+![Alt text](ar_output3.png)
 
 Rules based on confidence:
 
@@ -37,7 +37,7 @@ Rules based on confidence:
 ### 3. Top 15 association rules based on lift
 Lift measures the strength of the association between the items in the antecedent and the items in the consequent, while taking into account the baseline occurrence of the consequent. It compares the observed support of the rule to what would be expected if the items were independent.
 
-<img width="385" alt="image" src="https://github.com/saiyam-shah/STA380_RMS/assets/38381467/75111d33-79de-41a4-bab1-0ea0e64ec3e1">
+![Alt text](ar_output4.png)
 
 Rules based on lift:
 
