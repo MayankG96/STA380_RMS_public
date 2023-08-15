@@ -8,11 +8,11 @@
 
 ## 1.Clustering 
 
-<img width="454" alt="image" src="https://github.com/saiyam-shah/STA380_RMS/assets/38381467/2e9b7dbd-a426-4013-ada7-d190f09b0441">
+![Alt text](r50_output1.png)
 
-<img width="438" alt="image" src="https://github.com/saiyam-shah/STA380_RMS/assets/38381467/a4e46a7f-19e6-4307-a12f-5c7ed7a63294">
+![Alt text](r50_output2.png)
 
-<img width="842" alt="image" src="https://github.com/saiyam-shah/STA380_RMS/assets/38381467/755bddfa-cfbf-471d-b7d8-65aa1512762e">
+![Alt text](r50_output3.png)
 
 ## Result Interpretation
 a)Some very strong and clear clusters can be observed in the dataset. For example cluster 2, cluster 3, cluster 5 and cluster 6 look to be closely associated in feature space.
@@ -24,10 +24,10 @@ b)Interested stakeholders can use these results for wide variety of operations l
 ## 2.Topic Modelling using LDA
 
 ### List of selected topics
-<img width="445" alt="image" src="https://github.com/saiyam-shah/STA380_RMS/assets/38381467/c661f7e2-7685-4073-8b49-930c85e2be7c">
+![Alt text](r50_output4.png)
 
 ### Interactive visualisation using pyLDAvis library
-<img width="506" alt="image" src="https://github.com/saiyam-shah/STA380_RMS/assets/38381467/95b157b6-9272-458c-9e52-e1b78284a4dd">
+![Alt text](r50_output5.png)
 
 Result Interpretation
 -Our model identified a set of 10 topics within the corpus of text documents and displays top keywords for each identified topic to provide an understanding of the primary themes or content associated with each topic.
@@ -42,7 +42,7 @@ Result Interpretation
 ## 3. Author Classification
 
 ### Model summary comparison
-<img width="212" alt="image" src="https://github.com/saiyam-shah/STA380_RMS/assets/38381467/7e916a4a-daa3-4312-b669-ece67dfd2efe">
+![Alt text](r50_output6.png)
 
 ### Suggestions to Improve Accuracy:
 
